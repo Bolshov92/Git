@@ -1,2 +1,2 @@
 first push
-fg fg fg
+commit
